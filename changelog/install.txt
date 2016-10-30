@@ -1,4 +1,4 @@
-AngularJS 1.0.0
+AngularJS 1.0.0 - CoffeeTest CDLOH
 --------------------
 
 This version of AngularJS is now a merge of the following two packages:
